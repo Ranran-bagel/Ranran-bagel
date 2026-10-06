@@ -1,29 +1,45 @@
 # Hi, I'm Weiran 👋
 
-I'm a student at **Waseda University** and **42 Tokyo**, interested in **software engineering, data, and AI**.
+I'm a student at **Waseda University** and **42 Tokyo**, interested in
+**software engineering, data, and AI**.
 
-My studies at Waseda include coursework in **psychology and human sciences**, while my training at 42 Tokyo focuses on hands-on software development. I'm interested in exploring the intersection of **technology, data, and human behavior**, and in building practical solutions through programming.
+My studies at Waseda include coursework across **human sciences and psychology**,
+while at 42 Tokyo I develop practical software engineering skills through
+project-based learning.
+
+I'm particularly interested in the intersection of **technology, data, and human behavior**,
+and in using programming to build practical, human-centered solutions.
+
+---
 
 ## 👩‍💻 About Me
 
 - 🎓 Studying at **Waseda University — School of Human Sciences**
-- 💻 **42 Tokyo — Common Core, Circle 3**
-- 🔧 Developing practical programming skills through project-based learning
+- 💻 Currently working through the **42 Tokyo Common Core — Circle 3**
+- 🔧 Learning software engineering through hands-on projects
 - 📊 Building foundational knowledge in **statistics and data analysis**
-- 🧠 Interested in psychology, human behavior, and human-centered applications of technology
-- 🚀 Interested in **Software Engineering, Data Engineering, Analytics Engineering, and AI**
+- 🧠 Interested in psychology, human behavior, and human-centered technology
+- 🌱 Exploring **Software Engineering, Data Engineering, Analytics Engineering, and AI**
+
+---
 
 ## 🛠 Tech Stack
 
 ### Languages
 
-**C · Python · SQL**
+![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-Basic experience with **Java**
+**Basic experience:** Java
 
 ### Tools & Environment
 
-**Git · GitHub · Linux · Makefile · Poetry · mypy**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+`Makefile` · `Poetry` · `mypy`
 
 ### Currently Learning
 
@@ -33,45 +49,71 @@ Basic experience with **Java**
 - Data analysis and statistics
 - Software development practices
 
+---
+
 ## 💻 42 Tokyo
 
 I'm currently progressing through **Circle 3 of the 42 Tokyo Common Core**.
 
-Through 42's project-based curriculum, I've been developing my skills by building projects from scratch, debugging my own implementations, and participating in peer evaluation.
+Through its project-based curriculum, I learn by implementing projects from
+scratch, debugging my own code, and participating in peer evaluation.
 
-My work so far has primarily involved:
+My work so far has mainly involved:
 
-- **C** — low-level programming, memory management, pointers, and modular program design
-- **Python** — structured Python development, type hints, static type checking, and package/environment management
-- **Linux** — basic system administration and development environment
-- **Git** — version control and project management
+- **C** — memory management, pointers, and modular program design
+- **Python** — structured development, type hints, static type checking, and environment management
+- **Linux** — development environments and basic system administration
+- **Git** — version control and project-based development
 
-My 42 projects are available in the repositories below.
+My coursework and projects are available in the repositories below.
+
+---
 
 ## 🧠 Human Sciences & Psychology
 
-At Waseda University's School of Human Sciences, I have taken coursework related to **psychology, human behavior, and research methods**.
+At Waseda University's **School of Human Sciences**, I have taken coursework
+in areas including **psychology, human behavior, and research methods**,
+alongside foundational statistics.
 
-I also have foundational knowledge of **statistics** through university coursework.
+Studying human sciences while learning software development has made me
+interested in approaching human-related problems from both **technical and
+behavioral perspectives**.
 
-Studying human sciences alongside programming has made me particularly interested in how **software, data, and AI can be applied to problems involving people and human behavior**.
+I'm especially interested in how **software, data, and AI can be applied to
+understand and support people**.
+
+---
 
 ## 🎓 Education
 
-**Waseda University**  
-School of Human Sciences
+### Waseda University
 
-**42 Tokyo**  
-Common Core — Circle 3
+**School of Human Sciences**
+
+### 42 Tokyo
+
+**Common Core — Circle 3**
+
+---
 
 ## 🌏 Languages
 
 | Language | Proficiency |
-|---|---|
+| :--- | :--- |
 | Chinese | Native |
 | Japanese | JLPT N1 — 148/180 |
 | English | TOEFL iBT — 96 |
 
+---
+
 ## 🎯 Interests
 
-**Software Engineering · Data Engineering · Analytics Engineering · AI · Human-Centered Technology**
+`Software Engineering` · `Data Engineering` · `Analytics Engineering` · `AI` · `Human-Centered Technology`
+
+<!--
+Contact information will be added later.
+
+## 📫 Contact
+
+Email: continue..
+-->
