@@ -101,6 +101,12 @@ and in how software and AI can be applied to human-centered problems.
 
 ---
 
+## 📜 Certification
+
+- **Information Security Management Examination (SG)** — IPA, Japan
+
+---
+
 ## 🌏 Languages
 
 | Language | Proficiency |
