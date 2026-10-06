@@ -3,11 +3,11 @@
 I'm a student at **Waseda University** and **42 Tokyo**, interested in
 **software engineering, data, and AI**.
 
-My studies at Waseda include coursework across **human sciences and psychology**,
+My studies at Waseda include coursework across **human sciences**,
 while at 42 Tokyo I develop practical software engineering skills through
 project-based learning.
 
-I'm particularly interested in the intersection of **technology, data, and human behavior**,
+I'm particularly interested in the intersection of **technology, data, psychology and human behavior**,
 and in using programming to build practical, human-centered solutions.
 
 ---
@@ -15,7 +15,7 @@ and in using programming to build practical, human-centered solutions.
 ## 👩‍💻 About Me
 
 - 🎓 Studying at **Waseda University — School of Human Sciences**
-- 💻 Currently working through the **42 Tokyo Common Core — Circle 3**
+- 💻 Currently working through the **42 Tokyo Common Core**
 - 🔧 Learning software engineering through hands-on projects
 - 📊 Building foundational knowledge in **statistics and data analysis**
 - 🧠 Interested in psychology, human behavior, and human-centered technology
@@ -69,18 +69,23 @@ My coursework and projects are available in the repositories below.
 
 ---
 
-## 🧠 Human Sciences & Psychology
+## 🧠 Interdisciplinary Studies
 
-At Waseda University's **School of Human Sciences**, I have taken coursework
-in areas including **psychology, human behavior, and research methods**,
-alongside foundational statistics.
+At Waseda University's **School of Human Sciences**, my coursework spans both
 
-Studying human sciences while learning software development has made me
-interested in approaching human-related problems from both **technical and
-behavioral perspectives**.
+**human sciences and technology**, including psychology, research methods,
 
-I'm especially interested in how **software, data, and AI can be applied to
-understand and support people**.
+statistics, programming, AI, web technologies, and databases/SQL.
+
+This interdisciplinary environment has allowed me to explore human behavior
+
+while also developing technical and quantitative skills.
+
+Combined with my software engineering training at 42 Tokyo, I'm particularly
+
+interested in the intersection of **technology, data, and human behavior**,
+
+and in how software and AI can be applied to human-centered problems.
 
 ---
 
@@ -115,5 +120,5 @@ Contact information will be added later.
 
 ## 📫 Contact
 
-Email: continue..
+Email: weiranzhou.moegi@gmail.com
 -->
