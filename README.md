@@ -115,10 +115,9 @@ and in how software and AI can be applied to human-centered problems.
 
 `Software Engineering` · `Data Engineering` · `Analytics Engineering` · `AI` · `Human-Centered Technology`
 
-<!--
-Contact information will be added later.
+---
 
 ## 📫 Contact
 
 Email: weiranzhou.moegi@gmail.com
--->
+
