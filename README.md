@@ -52,4 +52,4 @@ Software Engineering · 2026 – Present
 ## 📫 Contact
 
 - Email: weiranzhou.moegi@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/weiran-zhou-24519b345/))
+- LinkedIn：https://www.linkedin.com/in/weiran-zhou-24519b345/
