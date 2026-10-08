@@ -49,12 +49,6 @@ Software Engineering · 2026 – Present
 - Japanese — JLPT N1
 - English — TOEFL iBT 96
 
-## 🌏 Languages
-
-- Chinese — Native
-- Japanese — JLPT N1 148/180
-- English — TOEFL iBT 96
-
 ## 📫 Contact
 
 - Email: weiranzhou.moegi@gmail.com
