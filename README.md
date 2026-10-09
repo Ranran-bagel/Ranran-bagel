@@ -21,7 +21,7 @@ Git · Linux · Makefile · Poetry · Pydantic · pandas
 
 A collection of my projects from the 42 Tokyo Common Core, covering C programming, algorithms, Linux system administration, and Python development.
 
-→ [42 Common Core](https://github.com/Ranran-bagel/42-common-core)
+→ [42 Common Core](https://github.com/Ranran-bagel/42_common_core)
 
 **Selected Projects**
 
